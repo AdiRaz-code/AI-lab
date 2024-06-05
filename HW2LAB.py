@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import time
 
-GA_MUTATIONRATE = 0.50  # Mutation rate
+GA_MUTATIONRATE = 0.25  # Mutation rate
 GA_TARGET = [
     [0, 0, 0, 2, 6, 0, 7, 0, 1],
     [6, 8, 0, 0, 7, 0, 0, 9, 0],
